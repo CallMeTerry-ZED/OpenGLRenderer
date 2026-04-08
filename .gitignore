@@ -1,0 +1,16 @@
+#--------
+# CMake
+#--------
+cmake-build*
+
+#-----------------------
+# IDE files and folder
+#-----------------------
+.vs/
+.vscode/
+.idea/
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
